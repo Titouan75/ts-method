@@ -26,4 +26,3 @@ I will provide the necessary files for independent verification.
 
 *This is part of my broader commitment to open tools, digital responsibility, and authorship integrity.*
 
-**Learn more:** [https://opentimestamps.org](https://opentimestamps.org)
