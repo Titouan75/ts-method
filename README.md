@@ -1,7 +1,7 @@
 # About My Timestamping Process
 
 I care deeply about the integrity of my creative work — whether poetry, photography, or documentary.
-To protect and date each piece I share, I use OpenTimestamps, a free and open protocol that records a unique cryptographic fingerprint of my files in a public, tamper-proof ledger (Bitcoin).
+To protect and date each piece I share, I use OpenTimestamps, a free and open protocol that records a unique cryptographic fingerprint of my files in a public, tamper-proof ledger.
 
 This use of blockchain is purely archival — with no tokens, no NFTs, and no financial transaction.
 The timestamp remains invisible in the file, but can independently verify that I held the original version at a specific date.
@@ -15,7 +15,7 @@ The timestamp remains invisible in the file, but can independently verify that I
 ## How it works (in simple terms)
 
 1. I create my work (photo, poem, etc.)  
-2. I generate a secure timestamp using [OpenTimestamps](https://opentimestamps.org)  
+2. I generate a secure timestamp using OpenTimestamps
 3. I store the **original file + its proof** securely  
 4. If needed, I can **prove the date of creation** to anyone, without relying on third parties
 
