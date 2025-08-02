@@ -1,3 +1,5 @@
+[Return to my Pixelfed profile](https://pixelfed.social/Titouan75) — feel free to explore my photos and poetry.
+
 # About My Timestamping Process
 
 I care deeply about the integrity of my creative work — whether poetry, photography, or documentary.
@@ -25,4 +27,7 @@ Feel free to contact me if you wish to verify the timestamp of any of my works.
 I will provide the necessary files for independent verification.
 
 *This is part of my broader commitment to open tools, digital responsibility, and authorship integrity.*
+
+[Go back to Pixelfed](https://pixelfed.social/Titouan75) — discover more of my creative work.
+
 
